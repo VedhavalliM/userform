@@ -1,0 +1,30 @@
+.bg-container {
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0),
+    rgb(45, 124, 134)
+  );
+  background-size: cover;
+}
+
+.form-container {
+  background-color: #d5ebf2;
+  background-size: cover;
+}
+
+.heading {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.btn {
+  text-align: center;
+  height: 40px;
+  width: 80px;
+}
+
+.error-message {
+  font-size: 12px;
+  color: red;
+}
